@@ -1,0 +1,11 @@
+com\vendafacil\dominio\VendaTest.class
+com\vendafacil\servico\ProdutoServicoTest.class
+com\vendafacil\dominio\MoedaTest.class
+com\vendafacil\servico\AutenticacaoServicoTest.class
+com\vendafacil\servico\VendaServicoTest.class
+com\vendafacil\servico\RelatorioServicoTest.class
+com\vendafacil\dominio\ProdutoTest.class
+com\vendafacil\persistencia\BancoDadosTest.class
+com\vendafacil\servico\ImportadorLegadoTest.class
+com\vendafacil\suporte\BancoTeste.class
+com\vendafacil\persistencia\MigradorTest.class
